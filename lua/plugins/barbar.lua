@@ -8,4 +8,5 @@ return {
       		{ "<a-.>", "<cmd>BufferNext<cr>" },
       		{ "<a-c>", "<cmd>BufferClose<cr>" },
     	},
+	config = true,
 }

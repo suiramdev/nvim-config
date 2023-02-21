@@ -9,4 +9,5 @@ return {
 	keys = {
       		{ "<leader>e", "<cmd>Neotree toggle<cr>", desc = "NeoTree" },
     	},
+	config = true,
 }
