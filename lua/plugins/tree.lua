@@ -7,7 +7,7 @@ return {
 	},
 	cmd = { "Neotree" },
 	keys = {
-      		{ "<leader>e", "<cmd>Neotree toggle<cr>", desc = "NeoTree" },
+      		{ "<leader>e", "<cmd>Neotree<cr>", desc = "NeoTree" },
     	},
 	config = true,
 }
